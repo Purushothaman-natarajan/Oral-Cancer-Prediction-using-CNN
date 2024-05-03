@@ -25,16 +25,17 @@ Each base model undergoes a process of customization to tailor it for oral cance
 
 These custom models are then trained and evaluated, producing the following performance metrics:
 
-| Model            | Accuracy | Epochs |
-|------------------|----------|--------|
-| VGG16            | 0.956667 | 17     |
-| VGG19            | 0.946000 | 7      |
-| ResNet50         | 0.806000 | 30     |
-| InceptionV3      | 0.957333 | 8      |
-| DenseNet121      | 0.975333 | 33     |
-| MobileNetV2      | 0.969333 | 30     |
-| Xception         | 0.966000 | 37     |
-| InceptionResNetV2| 0.954667 | 4      |
+|       Model         | Accuracy | Epochs |
+|:-------------------:|:--------:|:------:|
+|       VGG16         | 0.956667 |   17   |
+|       VGG19         | 0.946000 |    7   |
+|      ResNet50       | 0.806000 |   30   |
+|    InceptionV3      | 0.957333 |    8   |
+|    DenseNet121      | 0.975333 |   33   |
+|    MobileNetV2      | 0.969333 |   30   |
+|      Xception       | 0.966000 |   37   |
+| InceptionResNetV2   | 0.954667 |    4   |
+
 
 ## Exploring the Code
 
