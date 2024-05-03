@@ -2,20 +2,12 @@
 
 This repository focuses on utilizing Convolutional Neural Networks (CNNs) with transfer learning for the prediction of oral cancer. Here, we employ pre-trained CNN models such as VGG16, VGG19, ResNet50, InceptionV3, DenseNet121, MobileNetV2, Xception, and InceptionResNetV2.
 
-## Models Utilized
+## Dataset
 
-The project harnesses the power of various pre-trained models:
+* Histopathologic Oral Cancer Dataset published in Kaggle. 
+* Dataset [Link](https://www.kaggle.com/datasets/ashenafifasilkebede/dataset)
 
-- VGG16
-- VGG19
-- ResNet50
-- InceptionV3
-- DenseNet121
-- MobileNetV2
-- Xception
-- InceptionResNetV2
-
-## Customization and Training Strategy
+## Model Customization and Training Strategy
 
 Each base model undergoes a process of customization to tailor it for oral cancer prediction:
 
