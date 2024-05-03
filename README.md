@@ -24,7 +24,8 @@ Each base model undergoes a process of customization to tailor it for oral cance
 3. **Output Layer Creation**: Finally, an output layer with 2 neurons and softmax activation is appended for binary classification (Normal or OSCC).
 
 These custom models are then trained and evaluated, producing the following performance metrics:
-
+<div align="center">
+  
 |       Model         | Accuracy | Epochs |
 |:-------------------:|:--------:|:------:|
 |       VGG16         | 0.956667 |   17   |
@@ -36,6 +37,7 @@ These custom models are then trained and evaluated, producing the following perf
 |      Xception       | 0.966000 |   37   |
 | InceptionResNetV2   | 0.954667 |    4   |
 
+</div align="center">
 
 ## Exploring the Code
 
