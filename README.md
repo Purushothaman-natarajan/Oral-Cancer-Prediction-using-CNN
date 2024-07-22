@@ -35,7 +35,7 @@ These custom models are then trained and evaluated, producing the following perf
 
 For an in-depth exploration of the codebase and its implementation, we highly recommend referring to the [notebook file](https://github.com/Purushothaman-natarajan/Oral-Cancer-Prediction-using-CNN/blob/main/Cancer_Prediction_(Development_and_Testing).ipynb) provided within this repository. This notebook offers comprehensive insights into the development and testing phases of the project.
 
-##### Trained models and the processed data is uploaded via drive [Link]()
+##### Trained models and the processed data is uploaded via drive [Link](https://drive.google.com/drive/folders/1IQTiy16IvYtVEkqpS8iKvISnzUS3M72Y?usp=sharing)
 
 ## Acknowledgements
 
